@@ -1,0 +1,1 @@
+django erp-for-python-3.6-and-django-2.1.2
